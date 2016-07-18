@@ -1,2 +1,3 @@
 # hello-world
-simple exercise
+Simple exercise is not that simple.
+Let me have some ides through this, thanks.
