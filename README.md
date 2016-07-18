@@ -1,3 +1,4 @@
 # hello-world
-Simple exercise is not that simple.
-Let me have some ides through this, thanks.
+I am learning programming, anybody can help me suggesting ideas.
+Thanks!
+
